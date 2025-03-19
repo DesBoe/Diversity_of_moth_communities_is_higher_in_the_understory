@@ -1,0 +1,2 @@
+# Diversity_of_moth_communities_is_higher_in_the_understory
+This is the supplementary Dataset for the manuscript entitled: Diversity_of_moth_communities_is_higher_in_the_understory
